@@ -1,4 +1,4 @@
-# 📧 Email Spam Classification
+# Email Spam Classification
 
 ## Project Overview
 This project builds a **spam detection system** that classifies emails as **Spam (1)** or **Not Spam (0)** using Python and machine learning. The workflow covers **data preprocessing, feature extraction, model training, evaluation, and prediction**, providing an end-to-end pipeline.
